@@ -98,4 +98,3 @@ def plot_images(image, title=None, nrow=5):
     plt.axis("off")
     plt.show()
 
-
